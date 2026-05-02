@@ -5,7 +5,6 @@ A machine learning web application that predicts next-day stock prices using an 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-3.x-green.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
 
@@ -138,6 +137,6 @@ This project is for **educational purposes only**. Stock predictions made by thi
 
 ---
 
-## 📄 License
+<img width="1440" height="778" alt="Screenshot 2026-05-02 at 7 07 28 PM" src="https://github.com/user-attachments/assets/a3037530-77c4-4575-97c1-27d0f22824a5" />
+<img width="1440" height="777" alt="Screenshot 2026-05-02 at 7 07 38 PM" src="https://github.com/user-attachments/assets/1aa1db94-4e01-46dc-8a9a-8ecb95f6528f" />
 
-This project is licensed under the [MIT License](LICENSE).
