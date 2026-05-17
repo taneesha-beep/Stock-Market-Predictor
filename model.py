@@ -15,7 +15,7 @@ warnings.filterwarnings('ignore')
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 # ---------------- API Key ----------------
-API_KEY = 'A1AP3WSVCIITGGT8'
+API_KEY = os.getenv('ALPHA_VANTAGE_KEY')
 
 # ---------------- Fetch Stock Data Safely ----------------
 def fetch_stock_data(symbol, period="1y"):
